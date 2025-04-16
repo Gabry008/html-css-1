@@ -1,0 +1,11 @@
+.classe {
+    display: block;
+    height: 50px;
+    width: max-content;
+    
+}
+
+.clas{
+    background-image: url(img/pattern.png);
+    background-color: deepskyblue;
+}
