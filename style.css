@@ -35,3 +35,14 @@ td, th{
     padding: 15px 10px;
 }
 
+h4{
+    color: rgb(168, 168, 168);
+}
+
+h3{
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 200px;
+    color: white;
+}
