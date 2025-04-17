@@ -18,6 +18,7 @@
 }
 
 table{
+    border-spacing: 0;
     text-align: left;
     table-layout: fixed;
 }
