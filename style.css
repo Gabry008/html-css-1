@@ -19,5 +19,23 @@
 
 .evidenzia{
     background-color: rgb(229, 255, 0);
-
 }
+
+table{
+    text-align: left;
+    table-layout: fixed;
+}
+
+.blu{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.azzurro{
+    background-color: aqua;
+}
+
+td, th{
+    padding: 15px 10px;
+}
+
