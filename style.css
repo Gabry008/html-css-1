@@ -1,11 +1,23 @@
-.classe {
+.grandezza {
     display: block;
     height: 50px;
     width: max-content;
     
 }
 
-.clas{
+.colore{
     background-image: url(img/pattern.png);
     background-color: deepskyblue;
+}
+
+.immagini{
+    display: block;
+    border: 15px solid;
+    border-color: transparent;
+    border-left: none;
+}
+
+.evidenzia{
+    background-color: rgb(229, 255, 0);
+
 }
